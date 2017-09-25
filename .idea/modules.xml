@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HealthyFishAndroidClient.iml" filepath="$PROJECT_DIR$/HealthyFishAndroidClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/HealthyFishClient.iml" filepath="$PROJECT_DIR$/HealthyFishClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HealthyFishClient.iml" filepath="$PROJECT_DIR$/HealthyFishClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
